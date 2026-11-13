@@ -1,0 +1,35 @@
+
+/* 1. Párrafos azules y fuente Verdana */
+p {
+    color: blue;
+    font-family: Verdana;
+}
+
+/* 2. Elementos con clase importante */
+.importante {
+    background-color: yellow;
+    font-weight: 800;
+}
+
+/* 3. Elemento con ID especial */
+#especial {
+    border: 3px solid green;
+    padding: 10px;
+}
+
+/* 4. Margen exterior e interior para todos */
+* {
+    margin: 10px;
+    padding: 5px;
+}
+
+/* 5. Encabezados rojos y centrados */
+h1, h2 {
+    color: red;
+    text-align: center;
+}
+
+/* 6. Párrafos con clase importante */
+p.importante {
+    color: #BC00FF;
+}
